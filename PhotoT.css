@@ -22,7 +22,7 @@ body {
    position: fixed;
   inset: 0;
   display: grid;
-  grid-template-columns: repeat(5, 5fr);
+  grid-template-columns: repeat(9, 7fr);
  grid-template-rows: repeat(auto-fill, 3fr);
   gap: 0px;
 }

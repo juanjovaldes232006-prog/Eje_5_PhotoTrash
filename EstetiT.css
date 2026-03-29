@@ -16,6 +16,7 @@ body {
   background-image: url(assets/Fondo6.jpg);
 }
 
+@media (max-width: 768px){
 .collage {
   position: fixed;
   inset: 0;
@@ -72,3 +73,4 @@ body {
   line-height: 1.3;
 }
 
+}

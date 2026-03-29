@@ -12,6 +12,7 @@ body {
   overflow: hidden;
 }
 
+@media (max-width: 768px){
 .collage {
   position: fixed;
   inset: 0;
@@ -71,3 +72,4 @@ p
   text-transform: uppercase;
 }
 
+}

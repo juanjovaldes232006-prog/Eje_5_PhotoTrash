@@ -16,7 +16,6 @@ body {
   background-image: url(assets/Inte8.jpeg);
 }
 
-@media (max-width: 768px){
 .collage {
   position: fixed;
   inset: 0;
@@ -72,4 +71,3 @@ body {
   line-height: 1.3;
 }
 
-}

@@ -16,7 +16,7 @@ body {
   background-image: url(assets/Fondo1.jpg);
 }
 
-@media (max-width: 768px){
+
 .collagedos
 {
    position: fixed;
@@ -75,5 +75,4 @@ img
   width: 75vw;
   max-height: 65vh;
   object-fit: contain;
-}
 }

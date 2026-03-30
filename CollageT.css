@@ -13,7 +13,7 @@ body {
   background-image: url(assets/doc1.png);
 }
 
-@media (max-width: 768px){
+
 .collage {
   position: fixed;
   inset: 0;
@@ -44,4 +44,3 @@ body {
   object-fit: cover;
 }
 
-}

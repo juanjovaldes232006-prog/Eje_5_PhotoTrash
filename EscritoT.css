@@ -16,7 +16,7 @@ body {
   background-image: url(assets/Fondo1.jpg);
 }
 
-@media (max-width: 768px){
+
 .collagedos
 {
    position: fixed;
@@ -74,4 +74,3 @@ body {
   line-height: 1.3;
 }
 
-}
